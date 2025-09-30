@@ -1,5 +1,5 @@
 ;;
-;; Domain:     rajanpoudel.me.
+;; Domain:     globsoft.tech.
 ;; Exported:   2025-09-30 06:16:37
 ;;
 ;; This file is intended for use for informational and archival
@@ -24,31 +24,31 @@
 ;;
 ;; Use at your own risk.
 ;; SOA Record
-rajanpoudel.me	3600	IN	SOA	nikon.ns.cloudflare.com. dns.cloudflare.com. 2051087959 10000 2400 604800 3600
+globsoft.tech	3600	IN	SOA	nikon.ns.cloudflare.com. dns.cloudflare.com. 2051087959 10000 2400 604800 3600
 
 ;; NS Records
-rajanpoudel.me.	86400	IN	NS	nikon.ns.cloudflare.com.
-rajanpoudel.me.	86400	IN	NS	oaklyn.ns.cloudflare.com.
+globsoft.tech.	86400	IN	NS	nikon.ns.cloudflare.com.
+globsoft.tech.	86400	IN	NS	oaklyn.ns.cloudflare.com.
 
 ;; A Records
-rajanpoudel.me.	1	IN	A	185.199.109.153 ; cf_tags=cf-proxied:true
-rajanpoudel.me.	1	IN	A	185.199.108.153 ; cf_tags=cf-proxied:true
-rajanpoudel.me.	1	IN	A	185.199.111.153 ; cf_tags=cf-proxied:true
-rajanpoudel.me.	1	IN	A	185.199.110.153 ; cf_tags=cf-proxied:true
+globsoft.tech.	1	IN	A	185.199.109.153 ; cf_tags=cf-proxied:true
+globsoft.tech.	1	IN	A	185.199.108.153 ; cf_tags=cf-proxied:true
+globsoft.tech.	1	IN	A	185.199.111.153 ; cf_tags=cf-proxied:true
+globsoft.tech.	1	IN	A	185.199.110.153 ; cf_tags=cf-proxied:true
 
 ;; CNAME Records
-www.rajanpoudel.me.	1	IN	CNAME	rajanpoudel.me. ; cf_tags=cf-proxied:true
+www.globsoft.tech.	1	IN	CNAME	globsoft.tech. ; cf_tags=cf-proxied:true
 
 ;; MX Records
-rajanpoudel.me.	1	IN	MX	10 eforward3.registrar-servers.com.
-rajanpoudel.me.	1	IN	MX	10 eforward2.registrar-servers.com.
-rajanpoudel.me.	1	IN	MX	10 eforward1.registrar-servers.com.
-rajanpoudel.me.	1	IN	MX	15 eforward4.registrar-servers.com.
-rajanpoudel.me.	1	IN	MX	20 eforward5.registrar-servers.com.
+globsoft.tech.	1	IN	MX	10 eforward3.registrar-servers.com.
+globsoft.tech.	1	IN	MX	10 eforward2.registrar-servers.com.
+globsoft.tech.	1	IN	MX	10 eforward1.registrar-servers.com.
+globsoft.tech.	1	IN	MX	15 eforward4.registrar-servers.com.
+globsoft.tech.	1	IN	MX	20 eforward5.registrar-servers.com.
 
 ;; NS Records
-rajanpoudel.me.	1	IN	NS	dns2.registrar-servers.com.
-rajanpoudel.me.	1	IN	NS	dns1.registrar-servers.com.
+globsoft.tech.	1	IN	NS	dns2.registrar-servers.com.
+globsoft.tech.	1	IN	NS	dns1.registrar-servers.com.
 
 ;; TXT Records
-rajanpoudel.me.	1	IN	TXT	"v=spf1 include:spf.efwd.registrar-servers.com ~all"
+globsoft.tech.	1	IN	TXT	"v=spf1 include:spf.efwd.registrar-servers.com ~all"
