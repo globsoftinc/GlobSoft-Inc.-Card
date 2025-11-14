@@ -1,1 +1,1 @@
-# GlobSoft-Inc.-Card
+# Digital Business Card API for GlobSoft Inc.
